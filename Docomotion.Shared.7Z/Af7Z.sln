@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Af7Z", "Af7Z.csproj", "{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://skyhawk:8080/tfs/defaultcollection
+		SccProjectUniqueName0 = Af7Z.csproj
+		SccLocalPath0 = .
+		SccLocalPath1 = .
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Release32|Any CPU = Release32|Any CPU
+		Release32|x64 = Release32|x64
+		Release32|x86 = Release32|x86
+		Release64|Any CPU = Release64|Any CPU
+		Release64|x64 = Release64|x64
+		Release64|x86 = Release64|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|x64.ActiveCfg = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release32|Any CPU.ActiveCfg = Release32|x86
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release32|Any CPU.Build.0 = Release32|x86
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release32|x64.ActiveCfg = Release32|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release32|x86.ActiveCfg = Release32|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release64|Any CPU.ActiveCfg = Release64|x64
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release64|Any CPU.Build.0 = Release64|x64
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release64|x64.ActiveCfg = Release64|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release64|x86.ActiveCfg = Release64|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

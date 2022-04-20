@@ -1,0 +1,100 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.ComDef", "Docomotion.Shared.ComDef\Docomotion.Shared.ComDef.csproj", "{64CC0356-918A-4596-9A05-ED78985185BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.7Z", "Docomotion.Shared.7Z\Docomotion.Shared.7Z.csproj", "{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.ErrorHandler", "Docomotion.Shared.ErrorHandler\Docomotion.Shared.ErrorHandler.csproj", "{4A441763-AA2E-4A09-9E92-81F7098686BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.UtlFFP", "Docomotion.Shared.UtlFFP\Docomotion.Shared.UtlFFP.csproj", "{CE7EDDF0-9A38-49C0-A8B1-EEA45D945842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.Utils", "Docomotion.Shared.Utils\Docomotion.Shared.Utils.csproj", "{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.RIICompiler", "Docomotion.Shared.RIICompiler\Docomotion.Shared.RIICompiler.csproj", "{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.R3Compiler", "Docomotion.Shared.R3Compiler\Docomotion.Shared.R3Compiler.csproj", "{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.SchemeManipulation", "Docomotion.Shared.SchemeManipulation\Docomotion.Shared.SchemeManipulation.csproj", "{7C13FEB8-D677-4807-8C51-C7B7892579FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.JScripts", "Docomotion.Shared.JScripts\Docomotion.Shared.JScripts.csproj", "{EF1C45BE-5710-4037-844B-38E5E85584C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.NumberUtils", "Docomotion.Shared.NumberUtils\Docomotion.Shared.NumberUtils.csproj", "{F74422FD-5050-4B02-B1E7-72651ED6ADA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.Tests", "Docomotion.Shared.Tests\Docomotion.Shared.Tests.csproj", "{74E9C194-B475-4615-A2CC-D8FADA1D286B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.TagPropertiesData", "Docomotion.Shared.TagPropertiesData\Docomotion.Shared.TagPropertiesData.csproj", "{959E2204-6B5F-4280-8F78-15839E853210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.Logger", "Docomotion.Shared.Logger\Docomotion.Shared.Logger.csproj", "{7A97BCC2-F812-4E96-943D-D2F71AAE424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.EngineUtils", "Docomotion.Shared.EngineUtils\Docomotion.Shared.EngineUtils.csproj", "{1AF23AC9-E380-429C-9B0F-E1E90227854D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.ChartConnector", "Docomotion.Shared.ChartConnector\Docomotion.Shared.ChartConnector.csproj", "{DFB110F1-4EBD-46C1-B1B2-F32505CA3EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CC0356-918A-4596-9A05-ED78985185BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CC0356-918A-4596-9A05-ED78985185BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CC0356-918A-4596-9A05-ED78985185BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CC0356-918A-4596-9A05-ED78985185BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF880C6-C934-484F-AFC3-B07D3F1B4D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A441763-AA2E-4A09-9E92-81F7098686BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A441763-AA2E-4A09-9E92-81F7098686BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A441763-AA2E-4A09-9E92-81F7098686BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A441763-AA2E-4A09-9E92-81F7098686BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7EDDF0-9A38-49C0-A8B1-EEA45D945842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7EDDF0-9A38-49C0-A8B1-EEA45D945842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7EDDF0-9A38-49C0-A8B1-EEA45D945842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7EDDF0-9A38-49C0-A8B1-EEA45D945842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF1C45BE-5710-4037-844B-38E5E85584C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF1C45BE-5710-4037-844B-38E5E85584C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF1C45BE-5710-4037-844B-38E5E85584C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF1C45BE-5710-4037-844B-38E5E85584C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F74422FD-5050-4B02-B1E7-72651ED6ADA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F74422FD-5050-4B02-B1E7-72651ED6ADA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F74422FD-5050-4B02-B1E7-72651ED6ADA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F74422FD-5050-4B02-B1E7-72651ED6ADA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E9C194-B475-4615-A2CC-D8FADA1D286B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E9C194-B475-4615-A2CC-D8FADA1D286B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E9C194-B475-4615-A2CC-D8FADA1D286B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E9C194-B475-4615-A2CC-D8FADA1D286B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{959E2204-6B5F-4280-8F78-15839E853210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{959E2204-6B5F-4280-8F78-15839E853210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{959E2204-6B5F-4280-8F78-15839E853210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{959E2204-6B5F-4280-8F78-15839E853210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A97BCC2-F812-4E96-943D-D2F71AAE424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A97BCC2-F812-4E96-943D-D2F71AAE424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A97BCC2-F812-4E96-943D-D2F71AAE424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A97BCC2-F812-4E96-943D-D2F71AAE424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF23AC9-E380-429C-9B0F-E1E90227854D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF23AC9-E380-429C-9B0F-E1E90227854D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF23AC9-E380-429C-9B0F-E1E90227854D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF23AC9-E380-429C-9B0F-E1E90227854D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFB110F1-4EBD-46C1-B1B2-F32505CA3EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB110F1-4EBD-46C1-B1B2-F32505CA3EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB110F1-4EBD-46C1-B1B2-F32505CA3EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB110F1-4EBD-46C1-B1B2-F32505CA3EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

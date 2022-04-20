@@ -1,0 +1,8 @@
+﻿
+ver 1.5.1.0
+changes 
+1. add support to fetch the package SN 
+
+ver 1.4.16.0
+changes 
+1. fix bug locking FFP in case of error

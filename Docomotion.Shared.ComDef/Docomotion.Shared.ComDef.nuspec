@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Docomotion.Shared.ComDef</id>
+    <version>1.0.0.0</version>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>ComDef lib</description>
+    <authors>Docomotion</authors>
+    <repository type="git" url="https://github.com/Docomotion/cmp-shared"/>
+  </metadata>
+</package>

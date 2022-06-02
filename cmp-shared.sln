@@ -10,10 +10,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.UtlFFP", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.Utils", "Docomotion.Shared.Utils\Docomotion.Shared.Utils.csproj", "{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.RIICompiler", "Docomotion.Shared.RIICompiler\Docomotion.Shared.RIICompiler.csproj", "{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.R3Compiler", "Docomotion.Shared.R3Compiler\Docomotion.Shared.R3Compiler.csproj", "{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.SchemeManipulation", "Docomotion.Shared.SchemeManipulation\Docomotion.Shared.SchemeManipulation.csproj", "{7C13FEB8-D677-4807-8C51-C7B7892579FE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docomotion.Shared.JScripts", "Docomotion.Shared.JScripts\Docomotion.Shared.JScripts.csproj", "{EF1C45BE-5710-4037-844B-38E5E85584C4}"
@@ -56,14 +52,6 @@ Global
 		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C4AA47B-B0A1-4CCE-9B1F-9211C6C95637}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA5A8CEE-A63D-4817-ADCB-B2F382AF536C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC88DAD3-D9E6-47CE-ADD2-231C8AB69521}.Release|Any CPU.Build.0 = Release|Any CPU
 		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C13FEB8-D677-4807-8C51-C7B7892579FE}.Release|Any CPU.ActiveCfg = Release|Any CPU

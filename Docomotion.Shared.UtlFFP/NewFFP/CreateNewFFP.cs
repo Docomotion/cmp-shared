@@ -368,34 +368,7 @@ namespace Docomotion.Shared.UtlFFP.NewFFP
 
         private void init()
         {
-
             LogObject.init("c:\\package2.txt", "append");
-            return;
-            string l_sCurrent = Directory.GetCurrentDirectory();
-            l_sCurrent = string.Format("{0}\\utlforms.ini", l_sCurrent);
-            // if inin file exists load it and set the log path
-            if (!File.Exists(l_sCurrent))
-            {
-                return;
-            }
-
-            FileStream l_OFile = new FileStream(l_sCurrent, FileMode.Open, FileAccess.Read);
-            StreamReader l_oReader = new StreamReader(l_OFile);
-
-            while (!l_oReader.EndOfStream)
-            {
-                string l_sCurrentLine = l_oReader.ReadLine();
-                if (l_sCurrentLine.IndexOf("LogPath=") > -1)
-                {
-                    string l_sPathToLog = l_sCurrentLine.Substring("LogPath=".Length, l_sCurrentLine.Length - "LogPath=".Length);
-                    if (l_sPathToLog.Length > 0)
-                    {
-                        LogObject.init("c:\\package2.txt", "append");
-                    }
-                    continue;
-                }
-            }
-
         }
 
         #region IDisposable Members
